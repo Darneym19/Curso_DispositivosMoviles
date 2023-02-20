@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationUno</string>
+    <string name="titulo">Inicio_Sesion</string>
+    <string name="Name_1">Usuario</string>
+    <string name="tx1">Contrasena</string>
+    <string name="inicio">Ingresar</string>
+</resources>
