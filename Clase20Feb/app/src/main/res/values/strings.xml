@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Application</string>
+    <string name="app_name">CALCULADORES NETOS</string>
+    <string name="LadoUno">LADO UNO</string>
+    <string name="LadoDos">LADO DOS</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="Resultado">EL RESULTADO ES:</string>
 </resources>
